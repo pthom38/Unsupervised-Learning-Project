@@ -229,17 +229,4 @@
     geom_point() + 
     geom_smooth(method = "lm") + 
     facet_wrap(~Type) + ggtitle("Starting and Mid-Career Median Salaries by Types")
-    
-#####################
-#----BOX PLOTS----#
-#####################
-#Comparing Salary Medians by University Region and Type
-    
-    #----create tables----#
-    
-    
-    #REGION GROUPS
-    
-    
-    #TYPE GROUPS
-    
+   
